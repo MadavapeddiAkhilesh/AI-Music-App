@@ -5,3 +5,8 @@
 #Song_Name{
     background-color: deepskyblue;
 }
+
+canvas{
+    border: 5px solid white;
+    border-radius: 21px;
+}
